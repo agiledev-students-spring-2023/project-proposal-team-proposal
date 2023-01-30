@@ -1,2 +1,2 @@
-# Project Proposal
-Delete the contents of this file and replace with your project proposal, as described in the [instructions](./instructions.md)
+# Project Proposal:
+Website automatically consolidating book and movie recommendations from famous individuals. Users would get recommendations on great media to consume.
