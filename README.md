@@ -8,7 +8,9 @@ As for why, there is a vast amount of knowledge out there siloed in different re
 
 
 For Whom?:
-For anyone interested in finding new pieces of media to consumer (podcast listeners, book readers, TV show watchers, etc.)
+For anyone interested in finding new pieces of media to consumer (podcast listeners, book readers, TV show watchers, etc.). 
+This would have more applications in places like business fields in which the main ways people discern the best book is through 
+recommendation.
 
 How?:
 Users can look for media under a topic or look for individuals to understand what media they have recommended. I.e. a user could look up "Product Management Books" and be provided with a list of the best PM books recommended by experts.
